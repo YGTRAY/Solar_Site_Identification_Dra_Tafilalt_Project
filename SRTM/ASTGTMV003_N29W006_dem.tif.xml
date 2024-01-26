@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20230614</CreaDate><CreaTime>08442500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files (x86)\desktop10.8\ArcToolbox\Toolboxes\Data Management Tools.tbx\BuildPyramids" Date="20230614" Time="084425">BuildPyramids "C:\Users\hp\Desktop\Mini Projet SIG\SRTM\ASTGTMV003_N29W006_dem.tif" -1 NONE NEAREST DEFAULT 75 OVERWRITE</Process></lineage></DataProperties></Esri></metadata>
